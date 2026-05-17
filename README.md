@@ -120,4 +120,3 @@ For the dashboard, open `Project_Final_Module_4.pbix` in Power BI Desktop (free 
 
 ---
 
-*Project completed as part of B.E. Artificial Intelligence & Machine Learning — University of Mumbai, 2025*
